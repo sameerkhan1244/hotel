@@ -1,0 +1,79 @@
+/*menu bar*/
+{
+	margin:0px;
+	padding:0px;
+}
+i
+{
+	color:#ffa31a;
+}
+ul li a
+{
+	font-family:arial;
+	color:white;
+	font-size:14px;
+}
+ul li
+{
+	list-style:none;
+}
+.font
+{
+	font-family:arial;
+}
+li a:hover
+{
+	color:#ffa31a;
+	text-decoration:none;
+}
+.im
+{
+	background-image:url('h3.jpg');
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-size:100% 100%;
+}
+.b1
+{
+	
+	width:20%;
+	background-color:#F5F5F5;
+	display:inline-block;
+	margin-left:5%;
+	margin-top:2%;
+}
+.hvr
+{
+	transition:transform 1s;
+	transform:scale(1,1);
+}
+.hvr:hover
+{
+	transform:scale(1.1,1.1);
+}
+.se:hover
+{
+	background-color:#ffa31a;
+	color:white;
+}
+.se i:hover
+{
+	color:white;
+}
+.se:hover span
+{
+	background-color:#ffa31a;
+}
+.se:hover i
+{
+	color:white;
+}
+input
+{
+	color:#000033;
+	font-size:13px;
+}
+.cl
+{
+	color:white;
+}
